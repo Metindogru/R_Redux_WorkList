@@ -1,0 +1,49 @@
+{
+  "jobs": [
+    {
+      "position": "Data Analyst",
+      "company": "Coca Cola",
+      "location": "Menlo Park",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "id": "c1c7f9d1-dcf4-4b51-994f-499f8710f072",
+      "date": 1714602002418
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "ec72d702-ff65-46e4-bc4c-0ee6d3660913",
+      "date": 1715607078538
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "7fb211e4-a53e-4804-b949-9a3d25b8e67c",
+      "date": 1712608152577
+    },
+    {
+      "id": "9ee5155f-0984-4c16-9f6a-90712facfb78",
+      "position": "Marketing Manager",
+      "company": "Udemig",
+      "location": "İstanbul",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1720550896851
+    },
+    {
+      "id": "ad6fad18-8a7a-4309-85f9-7fa937b841e0",
+      "position": "Marketing Manager",
+      "company": "Udemig",
+      "location": "İstanbul",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1720552656225
+    }
+  ]
+}
